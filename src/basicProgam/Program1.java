@@ -8,5 +8,6 @@ public class Program1 {
 
 		
 		System.out.println(" Hii this is program 1");
+		System.out.println("Hiii this is program 2");
 	}
 }
